@@ -20,8 +20,8 @@ The first dataset, called *GBcomments.csv* consists of four columns that are :
 
 <br />
 The second dataset consists of ten columns and is called GBvideos.csv. The features are:
-
 <br />
+
 - video_id 
 - title
 - channel_title
