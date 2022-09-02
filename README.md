@@ -19,6 +19,7 @@ The first dataset, called *GBcomments.csv* consists of four columns that are :
 - replies
 <br />
 The second dataset consists of ten columns and is called GBvideos.csv. The features are:
+
 <br />
 
 - video_id 
