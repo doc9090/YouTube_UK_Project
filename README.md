@@ -11,8 +11,8 @@ This project aims to identify patterns within comments on trending videos in the
 The data set consists of two different datasets. The first one identifies the comments by an ID for privacy reasons. The second identifies the features of the video, describing it. 
 The first dataset, called *GBcomments.csv* consists of four columns that are :
 
--video_id 
--comment_text
--likes
--replies
+- video_id 
+- comment_text
+- likes
+- replies
 
